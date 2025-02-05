@@ -20,6 +20,7 @@ This project is a command-line application that dynamically generates a professi
 Download the file and extract data
 
 ## Usage
+Video Walkthrough: https://drive.google.com/file/d/1n1osHdboE-2veo6Vc9YHiN7T6qhzLzSv/view?usp=sharing
 Open in an IDE (I used VS Code), open the terminal, and type 'node index.js'
 
 ## Contribution

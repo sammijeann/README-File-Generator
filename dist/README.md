@@ -1,4 +1,4 @@
-# Little Book Keeper
+# README File Generator
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)https://opensource.org/licenses/MIT
 
@@ -7,26 +7,27 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Contribution](#contribution)
+- [Testing](#testing)
 
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Description
-This was an application to track readers' books and reviews online
+This project was made to allow user input through node that could be used to create a professional read me file
 
 
 ## Installation
-Download, open an IDE
+Download and open in an IDE
 
 ## Usage
-Include 3 html pages with respective javascript files to keep track of the home page, the library page, and some modals
+There are 2 js files that can be manipulated, but usage will be mostly in terminal, activated with "node index.js"
 
 ## Contribution
 Keep credits in comments
 
 ## Testing
-I do not have a test for this currently
+I do not have any tests at this time
 
 ## Questions
 Feel free to reach out to me with any questions at sammijteel@gmail.com or on GitHub at https://github.com/sammijeann
