@@ -22,10 +22,10 @@ Download, open an IDE
 ## Usage
 Include 3 html pages with respective javascript files to keep track of the home page, the library page, and some modals
 
-## How to Contribute
+## Contribution
 Keep credits in comments
 
-## How to Test
+## Testing
 I do not have a test for this currently
 
 ## Questions

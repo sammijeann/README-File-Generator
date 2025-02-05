@@ -60,7 +60,8 @@ ${licenseBadge}${licenseLink}
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Contribution](#contribution)
+- [Testing](#testing)
 
 ## License
 ${renderLicenseSection(data.license)}
@@ -75,10 +76,10 @@ ${data.installation}
 ## Usage
 ${data.usage}
 
-## How to Contribute
+## Contribution
 ${data.contribution}
 
-## How to Test
+## Testing
 ${data.testing}
 
 ## Questions

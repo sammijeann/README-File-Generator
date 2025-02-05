@@ -7,7 +7,8 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Contribution](#contribution)
+- [Testing](#testing)
 
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
@@ -21,11 +22,11 @@ Download the file and extract data
 ## Usage
 Open in an IDE (I used VS Code), open the terminal, and type 'node index.js'
 
-## How to Contribute
-Keep credit in comments
+## Contribution
+Keep credits in comments
 
-## How to Test
-nothing else
+## Testing
+I do not have a test for this currently
 
 ## Questions
 Feel free to reach out to me with any questions at sammijteel@gmail.com or on GitHub at https://github.com/sammijeann
